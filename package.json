@@ -1,0 +1,21 @@
+{
+  "name": "pochtabank",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crusher404/pochtabank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crusher404/pochtabank/issues"
+  },
+  "homepage": "https://github.com/crusher404/pochtabank#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.0"
+  }
+}
